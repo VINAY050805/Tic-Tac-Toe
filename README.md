@@ -30,13 +30,13 @@ A simple and fun **Tic Tac Toe** game built using **HTML**, **CSS**, and **JavaS
 Screenshots 🖼️
 Add a screenshot or GIF showcasing the gameplay here.
 
-**Future Improvements 🚧
-**Add a single-player mode with AI.
-**Implement game statistics like win/loss records.
-**Enhance the UI with animations and sound effects.
+Future Improvements 🚧
+Add a single-player mode with AI.
+Implement game statistics like win/loss records.
+Enhance the UI with animations and sound effects.
 
-##Contributing 🤝
-*Contributions are welcome! Feel free to submit a pull request or open an issue for improvements or bug fixes.
+Contributing 🤝
+Contributions are welcome! Feel free to submit a pull request or open an issue for improvements or bug fixes.
 
 License 📜
 This project is licensed under the MIT License. See the LICENSE file for more details.
